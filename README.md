@@ -1,2 +1,2 @@
-# Recriando-a-p-gina-inicial-do-Instagram
-Aula fixação de flexbox DIO
+# Recriando-a-página-inicial-do-Instagram
+Aula fixação de flexbox DIO.
